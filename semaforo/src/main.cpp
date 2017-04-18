@@ -7,9 +7,13 @@
 
 
 #include <systemc.h>
-
+#include <Top.h>
 int sc_main(int argc,  char* argv[]){
-	std::cout << "hello world" << std::endl;
+	sc_time period(0.1, SC_MS);
+	sc_clock clk("clk", period, 0.5);
+	Top topzera("toperson");
+
+	sc_start();
 	return 0;
 }
 

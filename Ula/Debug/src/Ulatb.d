@@ -1,4 +1,4 @@
-src/Ulatb.o: ../src/Ulatb.cpp /home/vieira/workspace/Ula/include/Ulatb.h \
+src/Ulatb.o: ../src/Ulatb.cpp /home/vieira/MSS-2017-1/Ula/include/Ulatb.h \
  /usr/local/lib/systemc/include/systemc.h \
  /usr/local/lib/systemc/include/systemc \
  /usr/local/lib/systemc/include/sysc/kernel/sc_cmnhdr.h \
@@ -113,9 +113,9 @@ src/Ulatb.o: ../src/Ulatb.cpp /home/vieira/workspace/Ula/include/Ulatb.h \
  /usr/local/lib/systemc/include/sysc/utils/sc_pvector.h \
  /usr/local/lib/systemc/include/sysc/utils/sc_vector.h \
  /usr/local/lib/systemc/include/sysc/packages/boost/utility/enable_if.hpp \
- /home/vieira/workspace/Ula/include/Ula.h
+ /home/vieira/MSS-2017-1/Ula/include/Ula.h
 
-/home/vieira/workspace/Ula/include/Ulatb.h:
+/home/vieira/MSS-2017-1/Ula/include/Ulatb.h:
 
 /usr/local/lib/systemc/include/systemc.h:
 
@@ -345,4 +345,4 @@ src/Ulatb.o: ../src/Ulatb.cpp /home/vieira/workspace/Ula/include/Ulatb.h \
 
 /usr/local/lib/systemc/include/sysc/packages/boost/utility/enable_if.hpp:
 
-/home/vieira/workspace/Ula/include/Ula.h:
+/home/vieira/MSS-2017-1/Ula/include/Ula.h:

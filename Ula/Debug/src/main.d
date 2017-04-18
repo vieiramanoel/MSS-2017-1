@@ -112,9 +112,9 @@ src/main.o: ../src/main.cpp /usr/local/lib/systemc/include/systemc.h \
  /usr/local/lib/systemc/include/sysc/utils/sc_pvector.h \
  /usr/local/lib/systemc/include/sysc/utils/sc_vector.h \
  /usr/local/lib/systemc/include/sysc/packages/boost/utility/enable_if.hpp \
- /home/vieira/workspace/Ula/include/Top.h \
- /home/vieira/workspace/Ula/include/Ula.h \
- /home/vieira/workspace/Ula/include/Ulatb.h
+ /home/vieira/MSS-2017-1/Ula/include/Top.h \
+ /home/vieira/MSS-2017-1/Ula/include/Ula.h \
+ /home/vieira/MSS-2017-1/Ula/include/Ulatb.h
 
 /usr/local/lib/systemc/include/systemc.h:
 
@@ -344,8 +344,8 @@ src/main.o: ../src/main.cpp /usr/local/lib/systemc/include/systemc.h \
 
 /usr/local/lib/systemc/include/sysc/packages/boost/utility/enable_if.hpp:
 
-/home/vieira/workspace/Ula/include/Top.h:
+/home/vieira/MSS-2017-1/Ula/include/Top.h:
 
-/home/vieira/workspace/Ula/include/Ula.h:
+/home/vieira/MSS-2017-1/Ula/include/Ula.h:
 
-/home/vieira/workspace/Ula/include/Ulatb.h:
+/home/vieira/MSS-2017-1/Ula/include/Ulatb.h:
