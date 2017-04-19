@@ -30,10 +30,6 @@
 
 #Eclipse meta data
 .metadata/*
-.project
-.settings/*
 *.d
 *.mk
-*.cproject
-*.settings
 
